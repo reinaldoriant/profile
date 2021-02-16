@@ -12,7 +12,7 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoriant&layout=compact"></a></p>
 
-<p align="center">  💬 Ask me about **Kotlin, UX, Android and Product** </p>
+<p align="center">  💬 Ask me about **Android and Product** </p>
 
 <p align="center"> 📫 How to reach me : </p>
 
