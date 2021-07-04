@@ -4,7 +4,7 @@
 <p align="left"><img src="https://img.shields.io/github/followers/reinaldoriant?style=social" alt="" />
 
 
-<p align="left"> Someone likes to play and learn to be hacker, hustler and hipster. </p>
+<p align="left"> I'm iOS Developer and Android Developer. I like to play and learn to be hacker, hustler and hipster.</p>
 
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=reinaldoriant&show_icons=true&count_private=true" width="350"></a>
