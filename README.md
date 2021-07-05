@@ -36,17 +36,3 @@
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a>
 </p>
 
-
-### :octocat: Open Source
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/reinaldoriant) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/reinaldoriant/GubakeGame)
-
-<a href="https://github.com/reinaldoriant/GubakeGame">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=reinaldoriant&repo=GubakeGame" />
-</a>
-<a href="https://github.com/reinaldoriant/weather-simple-apps">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=reinaldoriant&repo=weather-simple-apps" />
-</a>
-<a href="https://github.com/reinaldoriant/movie-app">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=reinaldoriant&repo=movie-app" />
-</a>
