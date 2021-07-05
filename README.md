@@ -1,5 +1,7 @@
 <p align="left">
  <img width="100px" src="https://svgshare.com/i/TEA.svg" align="left" alt="GitHub Readme Stats" />
+ 
+ 
 <h1 align="left"> Hello there, I'm Aldo <img alt="GIF" src="https://im4.ezgif.com/tmp/ezgif-4-8dc733e8c745.gif" width="40px" /></h1>
 <p align="left"><img src="https://img.shields.io/github/followers/reinaldoriant?style=social" alt="" />
 
