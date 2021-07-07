@@ -1,12 +1,14 @@
 <p align="left">
- <img width="100px" src="https://svgshare.com/i/TEA.svg" align="left" alt="GitHub Readme Stats" />
+ <img width="125px" src="https://svgshare.com/i/TEA.svg" align="left" alt="GitHub Readme Stats"  />
  
  
-<h1 align="left"> Hello there, I'm Aldo <img alt="GIF" src="https://im4.ezgif.com/tmp/ezgif-4-8dc733e8c745.gif" width="40px" /></h1>
+<h1 align="left"> Hello there, I'm Aldo <img alt="GIF" src="https://media1.tenor.com/images/e9a2b43613bdde8dea94e81c4ca7e4c2/tenor.gif?itemid=5072286" width="40px" /></h1>
 <p align="left"><img src="https://img.shields.io/github/followers/reinaldoriant?style=social" alt="" />
 
+<p align="left"> I'm iOS Developer and Android Developer. I like to play and learn to be hacker, hustler and hipster.
+ Today i contribute with Kompas Daily (The biggest of newspaper in Indonesia)
 
-<p align="left"> I'm iOS Developer and Android Developer. I like to play and learn to be hacker, hustler and hipster.</p>
+</p>
 
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=reinaldoriant&show_icons=true&count_private=true" width="350"></a>
@@ -16,11 +18,11 @@
 
 <p align="left">  💬 Ask me about </p>
 <p align="left">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></p>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/android/android.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></p>
 
 
 <p align="left"> 📫 How to reach me : </p>
