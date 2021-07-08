@@ -1,6 +1,3 @@
-<p align="center">
- <img width="125px" src="https://svgshare.com/i/TEA.svg" align="left" alt="GitHub Readme Stats"  />
-
 <h1 align="left">  🚀🧑🏻‍💻 Hello there, I'm Aldo <img alt="GIF" src="https://github.com/reinaldoriant/reinaldoriant/blob/master/output-onlinegiftools.gif" width="40px" /></h1>
 
 
