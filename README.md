@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://img.shields.io/github/followers/reinaldoriant?style=social" alt="" />
  
- - 🙋🏻‍♂️ I'm a passionate engineer interest with Core Network (5G & 4G), Android and iOS development. 
+ - 🙋🏻‍♂️ I'm experienced Android and iOS development. 
  - 🙆🏻‍♂️ I'm currently to be part of Kompas Daily in Indonesia as iOS Developer.
  - 💁🏻‍♂️ I set myself as a hipster, hacker, and hustler. I am committed to my experience and knowledge for a challenge and learn more with new things.
 
