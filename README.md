@@ -4,7 +4,7 @@
 <p align="left"><img src="https://img.shields.io/github/followers/reinaldoriant?style=social" alt="" />
  
  - 🙋🏻‍♂️ I'm experienced with Android and iOS development. 
- - 🙆🏻‍♂️ I'm currently to be part of Kompas Daily in Indonesia as iOS Developer.
+ - 🙆🏻‍♂️ I'm currently to be part of Kompas Daily in Indonesia as Ex- iOS Developer and Android Developer.
  - 💁🏻‍♂️ I set myself as a hipster, hacker, and hustler. I am committed to my experience and knowledge for a challenge and learn more with new things.
 
 <p align='left'>
