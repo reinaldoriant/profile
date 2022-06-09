@@ -1,4 +1,4 @@
-<h1 align="left">  🚀🧑🏻‍💻 Hello there, I'm Aldo <img alt="GIF" src="https://github.com/reinaldoriant/reinaldoriant/blob/master/output-onlinegiftools.gif" width="40px" /></h1>
+<h1 align="left">  🚀🧑🏻‍💻 Hello there, I'm Aldo </h1>
 
 
 <p align="left"><img src="https://img.shields.io/github/followers/reinaldoriant?style=social" alt="" />
