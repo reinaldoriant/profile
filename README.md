@@ -1,7 +1,8 @@
 <h1 align="left">  🚀🧑🏻‍💻 Hello there, I'm Aldo </h1>
 
+<p align="left"><img src="https://img.shields.io/github/followers/reinaldoriant?style=social" alt="" />  
 
-<p align="left"><img src="https://img.shields.io/github/followers/reinaldoriant?style=social" alt="" />
+![](https://komarev.com/ghpvc/?username=reinaldoriant)
  
  - 🙋🏻‍♂️ I'm experienced with Android and iOS development. 
  - 🙆🏻‍♂️ I'm currently to be part of Kompas Daily in Indonesia as Ex- iOS Developer and Android Developer.
