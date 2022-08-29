@@ -13,6 +13,8 @@
 </p>
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoriant&layout=compact"></a></p>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=reinaldoriant&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">  💬 Ask me about :</p>
 <p align="left">
@@ -22,11 +24,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></p>
 
-
 <p align="left"> 📫 How to reach me : </p>
-
-
- 
 
  <p align="left"> 
  <a href="https://t.me/reinaldoriant" >
