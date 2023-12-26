@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=reinaldoriant)
  
  - 🙋🏻‍♂️ I'm experienced with Android and iOS development. 
- - 🙆🏻‍♂️ I'm currently to be part of Kompas Daily in Indonesia as Ex- iOS Developer and Android Developer.
+ - 🙆🏻‍♂️ I'm currently to be part of OLX Indonesia as Android Developer.
  - 💁🏻‍♂️ I set myself as a hipster, hacker, and hustler. I am committed to my experience and knowledge for a challenge and learn more with new things.
 
 <p align='left'>
